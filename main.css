@@ -1,4 +1,4 @@
-/*/ SILLYBLOX Theme Manger /*/
+/*/ SILLYBLOX Theme Manager /*/
 
 .games-list-container {
     background-color: transparent
@@ -6606,28 +6606,28 @@
 .dark-theme .icon-default-bc,
 .dark-theme .icon-obc,
 .dark-theme .icon-tbc {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/4051d5ee1011f9edd4916fab36f9416d-bc_dark_09282018.svg)
+    background-image: url(/images/4051d5ee1011f9edd4916fab36f9416d-bc_dark_09282018.svg)
 }
 
 .light-theme .icon-bc,
 .light-theme .icon-default-bc,
 .light-theme .icon-obc,
 .light-theme .icon-tbc {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/84f33e1c1dcf617539630ab5c4931ce2-bc_light_10232018.svg)
+    background-image: url(/images/84f33e1c1dcf617539630ab5c4931ce2-bc_light_10232018.svg)
 }
 
 .dark-theme .icon-bc-no-label,
 .dark-theme .icon-default-bc-no-label,
 .dark-theme .icon-obc-no-label,
 .dark-theme .icon-tbc-no-label {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/4051d5ee1011f9edd4916fab36f9416d-bc_dark_09282018.svg)
+    background-image: url(/images/4051d5ee1011f9edd4916fab36f9416d-bc_dark_09282018.svg)
 }
 
 .light-theme .icon-bc-no-label,
 .light-theme .icon-default-bc-no-label,
 .light-theme .icon-obc-no-label,
 .light-theme .icon-tbc-no-label {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/84f33e1c1dcf617539630ab5c4931ce2-bc_light_10232018.svg)
+    background-image: url(/images/84f33e1c1dcf617539630ab5c4931ce2-bc_light_10232018.svg)
 }
 
 .dark-theme .icon-clanpoint,
@@ -6641,7 +6641,7 @@
 .dark-theme .icon-robux-burst-banner,
 .dark-theme .icon-robux-gray,
 .dark-theme .icon-robux-white {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/d7e813bcfd4f60ecde8f501dcc3540d1-branded_dark_11062018.svg)
+    background-image: url(/images/d7e813bcfd4f60ecde8f501dcc3540d1-branded_dark_11062018.svg)
 }
 
 .light-theme .icon-clanpoint,
@@ -6655,19 +6655,19 @@
 .light-theme .icon-robux-burst-banner,
 .light-theme .icon-robux-gray,
 .light-theme .icon-robux-white {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/bb8f7a72e8ff9a5c09710d6e7136d498-branded_light_10232018.svg)
+    background-image: url(/images/bb8f7a72e8ff9a5c09710d6e7136d498-branded_light_10232018.svg)
 }
 
 .dark-theme .icon-default-branded-16x16,
 .dark-theme .icon-robux-16x16,
 .dark-theme .icon-robux-gray-16x16 {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/d7e813bcfd4f60ecde8f501dcc3540d1-branded_dark_11062018.svg)
+    background-image: url(/images/d7e813bcfd4f60ecde8f501dcc3540d1-branded_dark_11062018.svg)
 }
 
 .light-theme .icon-default-branded-16x16,
 .light-theme .icon-robux-16x16,
 .light-theme .icon-robux-gray-16x16 {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/bb8f7a72e8ff9a5c09710d6e7136d498-branded_light_10232018.svg)
+    background-image: url(/images/bb8f7a72e8ff9a5c09710d6e7136d498-branded_light_10232018.svg)
 }
 
 .dark-theme .icon-default-common,
@@ -6699,7 +6699,7 @@
 .light-theme .game-card-info .info-label.icon-votes-gray-white-70,
 .light-theme.gotham-font .refresh-link-icon:after,
 .light-theme.gotham-font .see-all-link-icon:after {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/44acd0c6195597cdc307a3f60efab0e3-common_sm_dark_12032018.svg);
+    background-image: url(/images/44acd0c6195597cdc307a3f60efab0e3-common_sm_dark_12032018.svg);
     background-repeat: no-repeat;
     background-size: 32px auto;
     width: 16px;
@@ -6727,7 +6727,7 @@
 .light-theme .game-card-info .dark-theme .info-label.icon-votes-gray-white-70,
 .light-theme.gotham-font .dark-theme .refresh-link-icon:after,
 .light-theme.gotham-font .dark-theme .see-all-link-icon:after {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/44acd0c6195597cdc307a3f60efab0e3-common_sm_dark_12032018.svg)
+    background-image: url(/images/44acd0c6195597cdc307a3f60efab0e3-common_sm_dark_12032018.svg)
 }
 
 .dark-theme .game-card-info .light-theme .info-label.icon-playing-counts-gray,
@@ -6749,7 +6749,7 @@
 .light-theme .icon-push-right-sm,
 .light-theme .icon-rating-sm,
 .light-theme .icon-refresh-sm {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/ca3888e4e17a9df7b25d5bfe2110c1c9-common_sm_light_12032018.svg)
+    background-image: url(/images/ca3888e4e17a9df7b25d5bfe2110c1c9-common_sm_light_12032018.svg)
 }
 
 .dark-theme.gotham-font .refresh-link-icon:after,
@@ -6812,7 +6812,7 @@
 .dark-theme .icon-Transport,
 .dark-theme .icon-votes-gray,
 .dark-theme .icon-votes-gray-white-70 {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/ac97ce97e9705ed5948fecac07a7899b-games_dark.svg)
+    background-image: url(/images/ac97ce97e9705ed5948fecac07a7899b-games_dark.svg)
 }
 
 .light-theme .icon-allgears,
@@ -6847,7 +6847,7 @@
 .light-theme .icon-Transport,
 .light-theme .icon-votes-gray,
 .light-theme .icon-votes-gray-white-70 {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/bd15f0f07530fd4d51985c60441ae649-games_light.svg)
+    background-image: url(/images/bd15f0f07530fd4d51985c60441ae649-games_light.svg)
 }
 
 /*/ Uncommenting this makes the likes/dislikes icon look odd. /*/
@@ -6855,13 +6855,13 @@
 .dark-theme .icon-default-games-16x16,
 .dark-theme .icon-dislike-gray-16x16,
 .dark-theme .icon-like-gray-16x16 {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/ac97ce97e9705ed5948fecac07a7899b-games_dark.svg)
+    background-image: url(/images/ac97ce97e9705ed5948fecac07a7899b-games_dark.svg)
 }
 
 .light-theme .icon-default-games-16x16,
 .light-theme .icon-dislike-gray-16x16,
 .light-theme .icon-like-gray-16x16 {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/bd15f0f07530fd4d51985c60441ae649-games_light.svg)
+    background-image: url(/images/bd15f0f07530fd4d51985c60441ae649-games_light.svg)
 }
 /*/
 
@@ -6939,7 +6939,7 @@
 .dark-theme .icon-unlocked,
 .dark-theme .icon-up,
 .dark-theme .icon-viewdetails {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/2311ce00d7393592e4509c3582892462-generic_dark_11062018.svg)
+    background-image: url(/images/2311ce00d7393592e4509c3582892462-generic_dark_11062018.svg)
 }
 
 .light-theme .icon-additem,
@@ -7016,7 +7016,7 @@
 .light-theme .icon-unlocked,
 .light-theme .icon-up,
 .light-theme .icon-viewdetails {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/273a3637d8c230c9e3e55d5e5723ac42-generic_light_10232018.svg)
+    background-image: url(/images/273a3637d8c230c9e3e55d5e5723ac42-generic_light_10232018.svg)
 }
 
 .dark-theme .icon-checkmark-16x16,
@@ -7039,7 +7039,7 @@
 .input-group-btn .input-dropdown-btn:hover .dark-theme .icon-down,
 .open .input-dropdown-btn .dark-theme .icon-down,
 .rbx-select-group:hover .dark-theme .icon-down {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/2311ce00d7393592e4509c3582892462-generic_dark_11062018.svg)
+    background-image: url(/images/2311ce00d7393592e4509c3582892462-generic_dark_11062018.svg)
 }
 
 .light-theme .icon-down,
@@ -7062,7 +7062,7 @@
 .light-theme .rbx-select-group:hover .icon-down,
 .open .input-dropdown-btn .light-theme .icon-down,
 .rbx-select-group:hover .light-theme .icon-down {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/273a3637d8c230c9e3e55d5e5723ac42-generic_light_10232018.svg)
+    background-image: url(/images/273a3637d8c230c9e3e55d5e5723ac42-generic_light_10232018.svg)
 }
 
 /*/ Roblox's Logo (Ew) /*/
@@ -7071,7 +7071,7 @@
 .dark-theme .icon-logo,
 .icon-default-logo,
 .icon-logo {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/fa68672f5c59945eaa0ef9fea7f35b2e-roblox_logo_11212016.svg)
+    background-image: url(/images/fa68672f5c59945eaa0ef9fea7f35b2e-roblox_logo_11212016.svg)
 }
 
 .light-theme .icon-default-logo,
@@ -7094,12 +7094,12 @@
 
 .dark-theme .icon-default-logo-tagline,
 .dark-theme .icon-logo-tagline {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/5905601bf4897740155d54b976b07c80-roblox_tagline_dark_09282018.svg)
+    background-image: url(/images/5905601bf4897740155d54b976b07c80-roblox_tagline_dark_09282018.svg)
 }
 
 .light-theme .icon-default-logo-tagline,
 .light-theme .icon-logo-tagline {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/e4bf269d0d50245a547a6a4d54929e51-roblox_tagline_light_02282019.svg)
+    background-image: url(/images/e4bf269d0d50245a547a6a4d54929e51-roblox_tagline_light_02282019.svg)
 }
 
 .dark-theme .icon-default-navigation,
@@ -7120,7 +7120,7 @@
 .dark-theme .icon-nav-settings,
 .dark-theme .icon-nav-shop,
 .dark-theme .icon-nav-trade {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/2e92d9c419684e3a02fb8dedfba31280-navigation_dark_10022018.svg)
+    background-image: url(/images/2e92d9c419684e3a02fb8dedfba31280-navigation_dark_10022018.svg)
 }
 
 .light-theme .icon-default-navigation,
@@ -7141,7 +7141,7 @@
 .light-theme .icon-nav-settings,
 .light-theme .icon-nav-shop,
 .light-theme .icon-nav-trade {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/bcb7d652d8490cf53c09bebe92fee8b1-navigation_light_10232018.svg)
+    background-image: url(/images/bcb7d652d8490cf53c09bebe92fee8b1-navigation_light_10232018.svg)
 }
 
 .dark-theme .icon-alert,
@@ -7156,7 +7156,7 @@
 .dark-theme .icon-warning-orange,
 .dark-theme .vlist .list-item .list-body:hover .icon-report,
 .vlist .list-item .list-body:hover .dark-theme .icon-report {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/1d8f12408b34a09597340f61a3b5efa3-negative_dark_09282018.svg)
+    background-image: url(/images/1d8f12408b34a09597340f61a3b5efa3-negative_dark_09282018.svg)
 }
 
 .light-theme .icon-alert,
@@ -7171,7 +7171,7 @@
 .light-theme .icon-warning-orange,
 .light-theme .vlist .list-item .list-body:hover .icon-report,
 .vlist .list-item .list-body:hover .light-theme .icon-report {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/ae4ba8e4fd486ad0d7440d4a6fed9ec9-negative_light_10232018.svg)
+    background-image: url(/images/ae4ba8e4fd486ad0d7440d4a6fed9ec9-negative_light_10232018.svg)
 }
 
 .dark-theme .icon-default-placeholder,
@@ -7179,7 +7179,7 @@
 .dark-theme .icon-placeholder-avatar-fullbody,
 .dark-theme .icon-placeholder-avatar-headshot,
 .dark-theme .icon-placeholder-game {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/f41bca0caba34d56f59d3a1596a4ab11-placeholder_dark_10182018.svg)
+    background-image: url(/images/f41bca0caba34d56f59d3a1596a4ab11-placeholder_dark_10182018.svg)
 }
 
 .light-theme .icon-default-placeholder,
@@ -7187,7 +7187,7 @@
 .light-theme .icon-placeholder-avatar-fullbody,
 .light-theme .icon-placeholder-avatar-headshot,
 .light-theme .icon-placeholder-game {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/d60f4ee53e11edc7535f9ff77bbd5cf5-placeholder_light_10242018.svg)
+    background-image: url(/images/d60f4ee53e11edc7535f9ff77bbd5cf5-placeholder_light_10242018.svg)
 }
 
 .dark-theme .placeholder-default-16x9:before,
@@ -7209,7 +7209,7 @@
 .dark-theme .icon-send-message,
 .dark-theme .icon-send-message-disabled,
 .dark-theme .icon-start-chat {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/071ea06eadeae033a881ec3cee2d15ac-profile_dark_09282018.svg)
+    background-image: url(/images/071ea06eadeae033a881ec3cee2d15ac-profile_dark_09282018.svg)
 }
 
 .light-theme .icon-accept-friend,
@@ -7221,7 +7221,7 @@
 .light-theme .icon-send-message,
 .light-theme .icon-send-message-disabled,
 .light-theme .icon-start-chat {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/16548dff946496c4f777345be26eaa28-profile_light_10232018.svg)
+    background-image: url(/images/16548dff946496c4f777345be26eaa28-profile_light_10232018.svg)
 }
 
 .dark-theme .icon-acceptfriend,
@@ -7235,7 +7235,7 @@
 .dark-theme .icon-message,
 .dark-theme .icon-share,
 .dark-theme .icon-trade {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/4225f3fb7b171173bd969337cd471fc5-social_dark_09282018.svg)
+    background-image: url(/images/4225f3fb7b171173bd969337cd471fc5-social_dark_09282018.svg)
 }
 
 .light-theme .icon-acceptfriend,
@@ -7249,7 +7249,7 @@
 .light-theme .icon-message,
 .light-theme .icon-share,
 .light-theme .icon-trade {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/16636a3c18c2adf0c79b776e403d430a-social_light_10232018.svg)
+    background-image: url(/images/16636a3c18c2adf0c79b776e403d430a-social_light_10232018.svg)
 }
 
 .dark-theme .icon-blocked,
@@ -7258,7 +7258,7 @@
 .dark-theme .icon-in-review,
 .dark-theme .icon-pending,
 .dark-theme .icon-unknown {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/d3130ec93822f16403b1a0da9bad393d-thumbnail_status_dark_01302019.svg)
+    background-image: url(/images/d3130ec93822f16403b1a0da9bad393d-thumbnail_status_dark_01302019.svg)
 }
 
 .light-theme .icon-blocked,
@@ -7267,7 +7267,7 @@
 .light-theme .icon-in-review,
 .light-theme .icon-pending,
 .light-theme .icon-unknown {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/143b0f3cdd5051bd15b4b1bd6e595a5f-thumbnail_status_light_01302019.svg)
+    background-image: url(/images/143b0f3cdd5051bd15b4b1bd6e595a5f-thumbnail_status_light_01302019.svg)
 }
 
 .dark-theme .input-group .input-field {
@@ -8891,7 +8891,7 @@
 }
 
 .dark-theme .checkbox input[type=checkbox]:checked+label:before {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/2311ce00d7393592e4509c3582892462-generic_dark_11062018.svg);
+    background-image: url(/images/2311ce00d7393592e4509c3582892462-generic_dark_11062018.svg);
     background-repeat: no-repeat;
     background-size: 28px auto;
     width: 14px;
@@ -8905,7 +8905,7 @@
 }
 
 .dark-theme .checkbox input[type=checkbox]:checked+label:before {
-        background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/2311ce00d7393592e4509c3582892462-generic_dark_11062018.svg);
+        background-image: url(/images/2311ce00d7393592e4509c3582892462-generic_dark_11062018.svg);
         background-repeat: no-repeat;
         display: inline-block;
         vertical-align: middle;
@@ -8935,7 +8935,7 @@
 }
 
 .dark-theme .checkbox input[type=checkbox]:checked:disabled+label:before {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/2311ce00d7393592e4509c3582892462-generic_dark_11062018.svg);
+    background-image: url(/images/2311ce00d7393592e4509c3582892462-generic_dark_11062018.svg);
     background-repeat: no-repeat;
     background-size: 28px auto;
     width: 14px;
@@ -8948,7 +8948,7 @@
 }
 
 .dark-theme .checkbox input[type=checkbox]:checked:disabled+label:before {
-        background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/2311ce00d7393592e4509c3582892462-generic_dark_11062018.svg);
+        background-image: url(/images/2311ce00d7393592e4509c3582892462-generic_dark_11062018.svg);
         background-repeat: no-repeat;
         display: inline-block;
         vertical-align: middle;
@@ -8973,7 +8973,7 @@
 }
 
 .light-theme .checkbox input[type=checkbox]:checked+label:before {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/273a3637d8c230c9e3e55d5e5723ac42-generic_light_10232018.svg);
+    background-image: url(/images/273a3637d8c230c9e3e55d5e5723ac42-generic_light_10232018.svg);
     background-repeat: no-repeat;
     background-size: 28px auto;
     width: 14px;
@@ -8987,7 +8987,7 @@
 }
 
 .light-theme .checkbox input[type=checkbox]:checked+label:before {
-        background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/273a3637d8c230c9e3e55d5e5723ac42-generic_light_10232018.svg);
+        background-image: url(/images/273a3637d8c230c9e3e55d5e5723ac42-generic_light_10232018.svg);
         background-repeat: no-repeat;
         display: inline-block;
         vertical-align: middle;
@@ -9017,7 +9017,7 @@
 }
 
 .light-theme .checkbox input[type=checkbox]:checked:disabled+label:before {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/273a3637d8c230c9e3e55d5e5723ac42-generic_light_10232018.svg);
+    background-image: url(/images/273a3637d8c230c9e3e55d5e5723ac42-generic_light_10232018.svg);
     background-repeat: no-repeat;
     background-size: 28px auto;
     width: 14px;
@@ -9030,7 +9030,7 @@
 }
 
 .light-theme .checkbox input[type=checkbox]:checked:disabled+label:before {
-        background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/273a3637d8c230c9e3e55d5e5723ac42-generic_light_10232018.svg);
+        background-image: url(/images/273a3637d8c230c9e3e55d5e5723ac42-generic_light_10232018.svg);
         background-repeat: no-repeat;
         display: inline-block;
         vertical-align: middle;
@@ -9195,11 +9195,11 @@
 }
 
 .dark-theme .spinner {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/fab3a9d08d254fef4aea4408d4db1dfe-loading_dark.gif)
+    background-image: url(/images/fab3a9d08d254fef4aea4408d4db1dfe-loading_dark.gif)
 }
 
 .light-theme .spinner {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/db648997fb029fc877acbab089ba8a03-loading_light.gif)
+    background-image: url(/images/db648997fb029fc877acbab089ba8a03-loading_light.gif)
 }
 
 .dark-theme input,
@@ -10007,11 +10007,11 @@
 }
 
 .dark-theme .typing {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/fcc86a3e57e260aa1e8d8901045a0391-typing_dark.gif)
+    background-image: url(/images/fcc86a3e57e260aa1e8d8901045a0391-typing_dark.gif)
 }
 
 .light-theme .typing {
-    background-image: url(https://web.archive.org/web/20190403232609im_/https://images.rbxcdn.com/73f40798c524fd57380d7336151105f0-typing_light.gif)
+    background-image: url(/images/73f40798c524fd57380d7336151105f0-typing_light.gif)
 }
 
 .dark-theme .radio label {
