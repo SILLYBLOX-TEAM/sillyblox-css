@@ -1,5 +1,9 @@
 /*/ SILLYBLOX Theme Manager /*/
 
+.catalog-container .mobile-search-container {
+    background: transparent;
+}
+
 .rbx-tabs-horizontal #horizontal-tabs .rbx-tab:not(.active) a:not(:hover) {
     background-color: transparent
 }
@@ -20,7 +24,7 @@
     background-size: 140px 30px;
 }
 
-/*/ legacy-dark (WORK ON IT) /*/
+/*/ onyx-theme (WORK ON IT) /*/
 
 
 
@@ -9254,11 +9258,17 @@
     z-index: 1020
 }
 
+/*/ W H Y
 .dark-theme .input-group .input-group-btn {
         position: absolute;
         left: 0;
         top: 0
-    }
+}
+
+.dark-theme .input-group .input-group-btn .input-addon-btn {
+    position: relative
+}
+/*/
 
 .dark-theme .input-group .input-group-btn .input-addon-btn {
     position: absolute;
@@ -9266,10 +9276,6 @@
     top: 0;
     /*/ border-radius: 3px 0 0 3px /*/
 }
-
-.dark-theme .input-group .input-group-btn .input-addon-btn {
-        position: relative
-    }
 
 .dark-theme .input-group .input-group-btn .input-addon-btn,
 .dark-theme .input-group .input-group-btn .input-addon-btn:focus,
@@ -9330,11 +9336,17 @@
     z-index: 1020
 }
 
+/*/ W H Y
 .light-theme .input-group .input-group-btn {
         position: absolute;
         left: 0;
         top: 0
     }
+
+.light-theme .input-group .input-group-btn .input-addon-btn {
+        position: relative
+    }
+/*/
 
 .light-theme .input-group .input-group-btn .input-addon-btn {
     position: absolute;
@@ -9343,9 +9355,6 @@
     /*/ border-radius: 3px 0 0 3px /*/
 }
 
-.light-theme .input-group .input-group-btn .input-addon-btn {
-        position: relative
-    }
 
 .light-theme .input-group .input-group-btn .input-addon-btn,
 .light-theme .input-group .input-group-btn .input-addon-btn:focus,
@@ -10886,10 +10895,16 @@
   background-position: -28px -364px;
 }
 
+/*/ Quick fixes for 2019- tags /*/
 
 .dark-theme .icon-nav-shop,
 .light-theme .icon-nav-shop {
   background-position: 0 -420px;
+}
+
+.dark-theme .icon-nav-search-white,
+.light-theme .icon-nav-search-white {
+    background-position: 0 -392px;
 }
 
 .dark-theme .icon-nav-shop:hover,
@@ -10913,4 +10928,12 @@
 .light-theme a:hover .icon-nav-notification-stream,
 .light-theme button:hover .icon-nav-notification-stream{
   background-position: -28px -448px;
+}
+
+.dark-theme .small, .small-oneline {
+    color: #bdbebe;
+}
+
+.light-theme .small, .small-oneline {
+    color: rgba(123, 124, 125, .5);
 }
