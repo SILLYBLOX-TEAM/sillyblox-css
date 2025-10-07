@@ -1,5 +1,9 @@
 /*/ SILLYBLOX Theme Manager /*/
 
+.rbx-tabs-horizontal #horizontal-tabs .rbx-tab:not(.active) a:not(:hover) {
+    background-color: transparent
+}
+
 .games-list-container {
     background-color: transparent
 }
